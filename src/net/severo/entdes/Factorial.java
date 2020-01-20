@@ -16,6 +16,7 @@ public class Factorial {
 		System.out.println(VALUE_OF_N + n);
 		while (n > 1) {
 			result = result * (n - 1);
+			n--;
 		}
 		System.out.println(VALUE_OF_N2 + result);
 
