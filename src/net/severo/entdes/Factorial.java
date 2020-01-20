@@ -7,7 +7,7 @@ package net.severo.entdes;
 public class Factorial {
 
 	private static final String VALUE_OF_N2 = "arvo n!: ";
-	private static final String VALUE_OF_N = "arvo n";
+	private static final String VALUE_OF_N = "arvo n: ";
 
 	public static void main(String[] args) {
 
